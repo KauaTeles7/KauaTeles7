@@ -42,17 +42,18 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 🎓 Atualmente estudo no **SESI/SENAI**
+- 💻 Estou aprendendo **Desenvolvimento de Sistesmas**
+- 🎯 Meu objetivo é **Me tornar um grande programador e ingressar futuramente nessa área**
+- 📚 Gosto de aprender sobre **HTML/CSS**
+- ✝ "Nada temas, porque estou contigo, não lances olhares desesperados, pois eu sou teu Deus; eu te fortaleço e venho em teu socorro, eu te amparo com minha destra vitoriosa" (Isaías 41,10). 
+
 
 ---
 
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)  
+[![Instagram](https://www.instagram.com/teleszsx/?next=%2F)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)
 
